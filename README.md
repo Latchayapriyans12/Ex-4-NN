@@ -191,22 +191,11 @@ print(classification_report(testing_b,predicted_values))
 
 <H3 ALIGN =CENTER>MLP Classifier for Iris Dataset without Label Encoding</H3>
 
-### Prediction :
-![alt text](<Screenshot 2026-03-14 100514.png>)
-
-### Confusion Matrix :
-![alt text](<Screenshot 2026-03-14 105604.png>)
-
-### Classification Report :
-![alt text](<Screenshot 2026-03-14 110341.png>)
+![alt text](<Screenshot 2026-03-16 134146.png>)
 
 <H3 ALIGN =CENTER>MLP Classifier for Iris Dataset with Label Encoding</H3>
 
-### Confusion Matrix :
-![alt text](<Screenshot 2026-03-14 110348.png>)
-
-### Classification Report :
-![alt text](<Screenshot 2026-03-14 110354.png>)
+![alt text](<Screenshot 2026-03-16 133417.png>)
 
 <H3>Result:</H3>
 Thus, MLP is implemented for multi-classification using python.
